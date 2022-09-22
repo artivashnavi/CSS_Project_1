@@ -80,7 +80,13 @@
    
 }
 .card1:hover{
-background-color: whitesmoke;
+    top: 0px;
+    left: 0px;
+    width: 250px;
+    height: 250px;
+    opacity: 1;
+    box-shadow: 0px 0px 20px #67676729;
+
 }
 
 .cards a{
