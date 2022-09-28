@@ -3,11 +3,11 @@
     margin: 0;
 }
 .container{
-    width: 62%;
+    width: 70%;
     height: 1000px;
     background-color: rgb(237, 229, 229);
     border: 1px solid rgba(126, 125, 125, 0.939);
-    margin-left: 250px;
+    margin-left: 200px;
     cursor: pointer;
 }
 /* ###############################top-nav##################################### */
@@ -46,7 +46,7 @@
 .fa-solid{
     position: absolute;
     top: 10px;
-    left: -40px;
+    left: -270px;
     width: 30px;
     height: 30px;
     background: none;
